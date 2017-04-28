@@ -1,4 +1,5 @@
 from number import Number
+from surrealnumber import SurrealNumber
 import unittest
 
 
